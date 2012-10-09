@@ -1,0 +1,3 @@
+[submodule "Fitbit"]
+	path = Fitbit
+	url = git@github.com:mbmccormick/Fitbit.NET.git
